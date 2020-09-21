@@ -23,6 +23,7 @@ requirements:
     - setuptools >=0.7.0
   run:
     - python >=3.6
+    - colorama
     - pkginfo >=1.4.2
     - readme_renderer >=21.0
     - requests >=2.20
